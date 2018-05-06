@@ -1,0 +1,96 @@
+#container {
+    position: left;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #4aaaa5;
+  }
+  
+  h1 {
+    padding-bottom: 20px;
+    font-size: 30px;
+    line-height: 49px;
+    border-bottom: 3px solid #ddd;
+  }
+  
+  h2,
+  h3 {
+    font-size: 22px;
+  }
+  
+  #main-container {
+    padding-top: 130px;
+    min-height: calc(100vh - 70px);
+  }
+  
+  .main-section {
+    float: left;
+    width: 100%;
+    max-width: 960px;
+    padding: 30px;
+    margin: 0 0 40px;
+    background: #fff;
+    border: 1px solid #ddd;
+    background: #4aaaa5; 
+  }
+  
+  /* portfolio page */
+  
+  .work {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
+    background: #4aaaa5;
+  
+  }
+  
+  
+  .work1 {
+    width: 100%;
+    border: 0 none;
+    opacity: 0.8;
+    float: right;
+    background: #4aaaa5;
+  
+  }
+  
+  .work2 {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    float: left;
+  }
+  
+  .work3 {
+    position: absolute;
+    float: right;
+    background: #4aaaa5;
+  }
+  
+  .work4{
+    position: relative;
+    float: left;
+    background: #4aaaa5;
+  }
+  
+  
+  .personal-image{
+    width:100%;
+   
+  }
+  
+  
